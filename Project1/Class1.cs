@@ -10,7 +10,7 @@ namespace Project1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello c world");
+            Console.WriteLine("hello c world222");
             Console.ReadLine();
         }
     }
