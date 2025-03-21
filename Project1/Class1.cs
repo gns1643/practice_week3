@@ -34,6 +34,7 @@ namespace Project1
         {
             //Test_Add();
             //Class2.Test_Human();
+            Property.Test_Property();
         }
     }
     
